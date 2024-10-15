@@ -11,12 +11,16 @@ Data Sources: The analysis is based on publicly available datasets from sources 
 **Key Focus Areas:**
 
 Exploratory Data Analysis (EDA)
+
 Statistical Analysis
+
 SQL, Power Bi
+
 Data Visualization
 
 **Folder Structure**
 data: Folder containing the datasets used in the analysis(ElectricCarData_Clean.csv).
+
 visualizations: Visualizations and graphs generated during the analysis on power Bi (Electric_Vechicle_data.pbix).
 
 **EDA Visualizations:** Interactive charts depicting trends in electric vehicle sales, geographic distribution, and more.
