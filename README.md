@@ -19,8 +19,9 @@ SQL, Power Bi
 Data Visualization
 
 **Folder Structure**
-data: Folder containing the datasets used in the analysis(ElectricCarData_Clean.csv).
 
-visualizations: Visualizations and graphs generated during the analysis on power Bi (Electric_Vechicle_data.pbix).
+data: Folder containing the datasets used in the analysis(Electric_Vechicle_Population_data.csv).
+
+visualizations: Visualizations and graphs generated during the analysis on power Bi (EV Analysis.pbix).
 
 **EDA Visualizations:** Interactive charts depicting trends in electric vehicle sales, geographic distribution, and more.
